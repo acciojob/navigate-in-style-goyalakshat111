@@ -2,10 +2,11 @@
 .container{
 	background-color:#D3D3D3;
 	padding:10px;
-	
+}
+ol{
+	display:flex;
 }
 .container li{	
-	display:flex;
 	list-style-type:none;
 	margin-right:1rem;
 }
